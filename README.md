@@ -5,7 +5,7 @@
 
 Here some demo pictures from the project
 # Hardware
-<img src="/followbot.jpg" >
+<img src="/followbot1.jpg" >
 
 # Demo:
 <img src="/follower_screen.png" > 
